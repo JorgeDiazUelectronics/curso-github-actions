@@ -1,6 +1,6 @@
 import os
 
-def main()
+def main():
     nombre = os.getenv("USERNAME")
     print(f"Hola Mundo , {nombre}")
 
